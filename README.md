@@ -1,4 +1,4 @@
-🤖 Gen AI & Agentic AI Workshop
+# Gen AI & Agentic AI Workshop
 
 A hands-on workshop repository covering **Generative AI concepts, Transformers, Hugging Face, embeddings, and evaluation techniques**.
 
